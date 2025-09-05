@@ -1,3 +1,4 @@
+<img width="341" height="342" alt="test performance" src="https://github.com/user-attachments/assets/8b9baea5-6583-42da-a761-645ee00e0859" />
 Digital Twin + AI Powered CO₂ Emission Prediction System
 
 **Overview**
